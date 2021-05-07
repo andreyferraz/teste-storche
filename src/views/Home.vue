@@ -11,7 +11,7 @@
 				  	<!-- swiper-slide start -->
 				  	<div class="swiper-slide flex-min-height-box home-slide">
 					  	<!-- slide-bg -->
-				      	<div class="slide-bg overlay-loading2 overlay-dark-bg-1" style="background-image:url(assets/images/backgrounds/agencia1.jpg)"></div>
+				      	<div class="slide-bg overlay-loading2 overlay-dark-bg-1" style="background-image:url(./src/assets/images/backgrounds/agencia1.jpg)"></div>
 				      	<!-- home-slider-content start -->
 					  	<div class="home-slider-content flex-min-height-inner dark-bg-1">
 						  	<!-- flex-container start -->
